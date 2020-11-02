@@ -1,0 +1,16 @@
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\bin\Estacionamento.Infra.Data.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\bin\Estacionamento.Infra.Data.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\bin\EntityFramework.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\bin\EntityFramework.SqlServer.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\bin\Estacionamento.Domain.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\bin\Estacionamento.CrossCutting.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\bin\Estacionamento.Domain.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\bin\EntityFramework.xml
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\bin\EntityFramework.SqlServer.xml
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\bin\Estacionamento.CrossCutting.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\obj\Debug\Estacionamento.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\obj\Debug\Estacionamento.Infra.Data.Migrations.Initial.resources
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\obj\Debug\Estacionamento.Infra.Data.Migrations.Sumario.resources
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\obj\Debug\Estacionamento.Infra.Data.csproj.GenerateResource.Cache
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\obj\Debug\Estacionamento.Infra.Data.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Infra.Data\obj\Debug\Estacionamento.Infra.Data.pdb

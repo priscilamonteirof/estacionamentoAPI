@@ -1,0 +1,9 @@
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Contracts\bin\Estacionamento.Contracts.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Contracts\bin\Estacionamento.Contracts.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Contracts\bin\Estacionamento.CrossCutting.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Contracts\bin\Newtonsoft.Json.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Contracts\bin\Estacionamento.CrossCutting.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Contracts\bin\Newtonsoft.Json.xml
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Contracts\obj\Release\Estacionamento.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Contracts\obj\Release\Estacionamento.Contracts.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Contracts\obj\Release\Estacionamento.Contracts.pdb

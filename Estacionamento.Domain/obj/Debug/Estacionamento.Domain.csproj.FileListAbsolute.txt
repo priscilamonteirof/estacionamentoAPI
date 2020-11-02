@@ -1,0 +1,7 @@
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Domain\bin\Estacionamento.Domain.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Domain\bin\Estacionamento.Domain.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Domain\bin\Estacionamento.CrossCutting.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Domain\bin\Estacionamento.CrossCutting.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Domain\obj\Debug\Estacionamento.Domain.csprojResolveAssemblyReference.cache
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Domain\obj\Debug\Estacionamento.Domain.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.Domain\obj\Debug\Estacionamento.Domain.pdb

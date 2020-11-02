@@ -1,0 +1,4 @@
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.CrossCutting\bin\Estacionamento.CrossCutting.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.CrossCutting\bin\Estacionamento.CrossCutting.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.CrossCutting\obj\Debug\Estacionamento.CrossCutting.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.CrossCutting\obj\Debug\Estacionamento.CrossCutting.pdb

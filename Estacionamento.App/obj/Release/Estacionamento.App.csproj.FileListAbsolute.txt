@@ -1,0 +1,17 @@
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\Estacionamento.App.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\Estacionamento.App.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\EntityFramework.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\EntityFramework.SqlServer.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\Estacionamento.Contracts.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\Estacionamento.CrossCutting.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\Estacionamento.Domain.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\Estacionamento.Infra.Data.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\Estacionamento.Contracts.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\Estacionamento.CrossCutting.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\Estacionamento.Domain.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\Estacionamento.Infra.Data.pdb
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\EntityFramework.xml
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\bin\EntityFramework.SqlServer.xml
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\obj\Release\Estacionamento.App.csprojResolveAssemblyReference.cache
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\obj\Release\Estacionamento.App.dll
+C:\Users\prisc\Documents\Visual Studio 2012\Projects\Estacionamento\EstacionamentoAPI\Estacionamento.App\obj\Release\Estacionamento.App.pdb
